@@ -106,5 +106,14 @@ export const  ServiceData = [
     rating3: "fa-solid fa-star",
     rating4: "fa-solid fa-star",
     rating5: "fa-solid fa-star"
+  },
+  {
+    src: "./image/product-image15.jpg",
+    title: "product title",
+    rating1: "fa-solid fa-star",
+    rating2: "fa-solid fa-star",
+    rating3: "fa-solid fa-star",
+    rating4: "fa-solid fa-star",
+    rating5: "fa-solid fa-star"
   }
 ];
